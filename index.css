@@ -1,0 +1,51 @@
+h1 {
+ color: white;
+ background-color: green;
+ padding: 20px;
+ position: relative;
+ top: -25px;
+ left: -15px;
+ width: 100%;
+}
+
+body {
+ background-color: #E0E0E0;
+}
+
+.firstDivCategory {
+ background-color: white;
+ border-radius: 10px;
+ margin: -25px 0 0 0;
+ padding: 10px 10px 10px 5px;
+ width: 100%;
+}
+
+.subDivCategory {
+ background-color: white;
+ border-radius: 10px;
+ margin: -10px 0 0 0;
+ padding: 10px 10px 10px 5px;
+ width: 100%;
+}
+
+.title {
+ font-weight: bold;
+ font-size: 20px;
+ position: relative;
+ left: 10px;
+}
+
+button {
+ border-radius: 5px;
+}
+
+.divName {
+ border: solid 2px black;
+ border-radius: 10px;
+ margin-top: 10px;
+}
+
+.name {
+ position: relative;
+ left: 10px;
+}
