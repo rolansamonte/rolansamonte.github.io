@@ -38,9 +38,8 @@ body {
 
 img {
  border: solid 2px black;
- float: left;
+ display: inline-block
  margin-right: 10px;
- object-fit: cover;
 }
 
 .button1 {
