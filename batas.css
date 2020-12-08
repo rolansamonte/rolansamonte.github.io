@@ -1,0 +1,40 @@
+h2 {
+ color: white;
+ background-color: lightGreen;
+ padding: 20px;
+ position: relative;
+ top: -25px;
+ left: -15px;
+ width: 100%;
+}
+ 
+body {
+ background-color: #E0E0E0;
+ font-size: 20px;
+}
+ 
+.firstDiv {
+ background-color: white;
+ border-radius: 10px;
+ margin: -20px 0 0 0;
+ padding: 10px 10px 10px 10px;
+ width: 100%;
+ border: solid 1px lightGreen;
+}
+ 
+div {
+ background-color: white;
+ border-radius: 10px;
+ margin: 5px 0 0 0;
+ padding: 10px 10px 10px 10px;
+ width: 100%;
+ border: solid 1px lightGreen;
+}
+
+button {
+ border-radius: 5px;
+ position: relative;
+ left: 0;
+ margin: 5px;
+ padding: 5px;
+}
