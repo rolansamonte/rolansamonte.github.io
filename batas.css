@@ -1,6 +1,6 @@
 h2 {
  color: white;
- background-color: lightGreen;
+ background-color: yellow;
  padding: 20px;
  position: relative;
  top: -25px;
@@ -19,7 +19,7 @@ body {
  margin: -20px 0 0 0;
  padding: 10px 10px 10px 10px;
  width: 100%;
- border: solid 1px lightGreen;
+ border: solid 1px yellow;
 }
  
 div {
@@ -28,7 +28,7 @@ div {
  margin: 5px 0 0 0;
  padding: 10px 10px 10px 10px;
  width: 100%;
- border: solid 1px lightGreen;
+ border: solid 1px yellow;
 }
 
 button {
